@@ -14,7 +14,7 @@
                 <a class="text-gray-500 text-xl cursor-not-allowed" >Disabled</a>
             </li>
             <li >
-                <a class="float-right mr-2 text-xl focus:text-blue-500 cursor-pointer" @click="logout()">logout</a>
+                <a class="bg-blue-500 px-4 py-1 rounded float-right mr-2 text-xl focus:text-blue-500 cursor-pointer" @click="logout()">logout</a>
             </li>
         </ul>
         <br>
